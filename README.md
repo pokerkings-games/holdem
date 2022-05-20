@@ -1,1 +1,1 @@
-# TerraPoker: Holdem Core
+# Holdem Core

@@ -1,1 +1,1 @@
-# holdem
+# Holdem Core
